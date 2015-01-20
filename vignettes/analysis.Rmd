@@ -14,6 +14,8 @@ x <- gather_data(tickers = c("MSFT", "IBM"))
 
 This is my first plot.
 
+And now another sentence.
+
 ```{r, echo = FALSE}
 p <- make_plot(x, ticker = "IBM")
 print(p)
