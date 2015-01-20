@@ -1,3 +1,11 @@
 .Rproj*
 saipan.Rproj
 .Rproj.user
+vignettes/*log
+vignettes/*tex
+vignettes/*gz
+vignettes/ca*
+vignettes/fig*
+vignettes/*sty
+vignettes/analysis_cache*
+vignettes/*pdf
